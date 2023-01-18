@@ -1,0 +1,28 @@
+:root {
+    --main-color: #565656;
+    --mint: #B2FFA9;
+    --attention: #FF4A1C;
+    --yellow: #F3B700;
+    --purp: #8A4FFF;
+}
+
+body {
+    background-color: var(--main-color);
+    color: var(--mint);
+    text-align: center;
+    margin: 25px auto;
+}
+
+#title {
+    width: 400px;
+    margin: 50px auto;
+    text-shadow: 5px 5px 10px black;
+}
+
+#hContainer {
+    text-shadow: 0px 0px 5px black;
+}
+
+.conclude {
+    color: var(--attention);
+}
