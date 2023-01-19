@@ -14,7 +14,9 @@ body {
 }
 
 #title {
-    width: 400px;
+    padding: 5px 10px;
+    background-color: var(--purp);
+    width: 800px;
     margin: 50px auto;
     text-shadow: 5px 5px 10px black;
 }
